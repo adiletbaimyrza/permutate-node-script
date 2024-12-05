@@ -2,6 +2,8 @@
 
 This script generates all permutations of user-defined fields with variable values and saves the results in a CSV file.
 
+![Screenshot](screenshot.png)
+
 - Make sure [Node.js](https://nodejs.org/) is installed on your machine.
 
 ---
